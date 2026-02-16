@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" height="300" src="descarga.jpg">
+<img align="center" alt="Coding" width="1000" height="300" src="google.jpg">
 
 <h1 align="center">Hi, I'm Marianela Chiarillo :)</h1>
 <h2 align="center">A Software Developer</h2>
@@ -16,8 +16,10 @@
 - Team player | Good communication | Problem solver
 
 ### 🚀 Projects
-- [Project One](#) - Short description of what it does / tech used
-- [Project Two](#) - Short description of what it does / tech used
+- [PlatoListo](#) - Mobile app like a restaurant order system to manage orders. Technologies: Ionic, Angular, Firebase.
+- [Clinica Online](#) - Website for booking appointments and managing medical records. Technologies: HTML, SCSS, TypeScript, Angular, Supabase.
+- [App de juegos](#) - Website with games like Hangman, Memory, Trivia, and Higher or Lower. Technologies: TML, SCSS, TypeScript, Angular, Supabase.
+- [ReceClick](#) - Website that provides cooking instructions and recipes. Technologies: HTML, CSS, NodeJS, MongoDB, Express.
 
 ### 📫 Contact Me
 - Email: [marianelachiarillo@gmail.com](mailto:marianelachiarillo@gmail.com)
