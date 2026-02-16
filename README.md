@@ -1,14 +1,14 @@
-![MasterHead]()
+<img align="center" alt="Coding" width="1000" height="300" src="descarga.jpg">
 
 <h1 align="center">Hi, I'm Marianela Chiarillo :)</h1>
 <h2 align="center">A Software developer</h2>
 <img align="right" alt="Coding" width="400" src="Programmer.gif">
 
-- 🌱 I’m currently learning **Numpy, Matplotlib, Pandas.**
+- 🚀 I’m currently learning **Numpy, Matplotlib, Pandas.**
 
-- 📫 How to reach me **marianelachiarillo@gmail.com**
+- 📫 Contact me: **marianelachiarillo@gmail.com**
 
-- ⚡ Fun fact **I enjoy writing poems and reading books**
+- ⚡ Hobbies: **I enjoy writing poems and reading books**
 
 <br>
 <h3 align="left">Connect with me:</h3>
