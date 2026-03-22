@@ -15,7 +15,7 @@
 ### 🚀 Projects
 - [PlatoListo](#) - Mobile app like a restaurant order system to manage orders. Technologies: Ionic, Angular, Firebase.
 - [Clinica Online](#) - Website for booking appointments and managing medical records. Technologies: HTML, SCSS, TypeScript, Angular, Supabase.
-- [App de juegos](#) - Website with games like Hangman, Memory, Trivia, and Higher or Lower. Technologies: TML, SCSS, TypeScript, Angular, Supabase.
+- [App de juegos](#) - Website with games like Hangman, Memory, Trivia, and Higher or Lower. Technologies: HTML, SCSS, TypeScript, Angular, Supabase.
 - [ReceClick](#) - Website that provides cooking instructions and recipes. Technologies: HTML, CSS, NodeJS, MongoDB, Express.
 
 ### 📫 Contact Me
