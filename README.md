@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Marianela Chiarillo :)</h1>
 <h2 align="center">A Software Developer</h2>
-<img align="right" alt="Coding" width="400" src="Programmer.gif">
+<img align="right" alt="Coding" width="500"  src="des.jpg">
 
----
 
 ### 🎓 Education
 - Associate Degree in Programming, UTN, 2025
