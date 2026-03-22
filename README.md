@@ -1,5 +1,3 @@
-<img align="center" alt="Coding" width="1000" height="300" src="google.jpg">
-
 <h1 align="center">Hi, I'm Marianela Chiarillo :)</h1>
 <h2 align="center">A Software Developer</h2>
 <img align="right" alt="Coding" width="400" src="Programmer.gif">
